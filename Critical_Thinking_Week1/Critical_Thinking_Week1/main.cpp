@@ -6,11 +6,11 @@ using namespace std;
 
 int main() {
 	// Declare variables
-	string firstName = "John";
-	string lastName = "Doe";
-	string streetAddress = "1234 Elm Street";
-	string city = "Metropolis";
-	string zipCode = "12345";
+	string firstName = "James";
+	string lastName = "Davis";
+	string streetAddress = "4689 Water Street";
+	string city = "Hastings";
+	string zipCode = "55033";
 
 	// Print the information
 	cout << "First Name: " << firstName << endl;
