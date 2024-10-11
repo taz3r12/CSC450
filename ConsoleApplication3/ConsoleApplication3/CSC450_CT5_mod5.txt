@@ -1,0 +1,5 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+This is a test of the application I coded for CSC450. This C++ application takes the typed information provided, and appends it to the csc450_ct5.txt file. It will then put that text in reverse and store it in the csc450-mod5-reverse file. 
